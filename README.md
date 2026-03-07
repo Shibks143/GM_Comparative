@@ -3,7 +3,7 @@ Comparative study_GM v1.0
 
 Matlab code for comparative study of structural seismic responses using recorded and synthetic ground motions, from:
 
-Kim, J., Su, M., Wang, Z., & Broccardo, M. (2026). Recorded Versus Synthetic Ground Motions: A Comparative Analysis of Structural Seismic Responses. Earthquake Engineering and Structural Dynamics.
+Kim, J., Su, M., Wang, Z., & Broccardo, M. (2026). Recorded Versus Synthetic Spectral-Compatible Ground Motions: A Comparative Analysis of Structural Seismic Responses. Earthquake Engineering and Structural Dynamics. 55(4), 827-843.
 https://doi.org/10.1002/eqe.70115.
 
 How to Run:
